@@ -3412,17 +3412,6 @@
       "input": false,
       "amount": 1.248264538,
       "internalId": 45,
-      "defaultProvider": {
-        "@type": "Process",
-        "@id": "ce587724-1be4-3da0-b7a2-988592c28b9a",
-        "name": "Sawn lumber, hardwood, rough, green, at sawmill, SE",
-        "categoryPath": [
-          "31-33: Manufacturing",
-          "3211: Sawmills and Wood Preservation"
-        ],
-        "processType": "UNIT_PROCESS",
-        "location": "US"
-      },
       "flow": {
         "@type": "Flow",
         "@id": "b6f010fb-a764-3063-af2d-bcb8309a97b7",
@@ -4403,17 +4392,6 @@
       "input": false,
       "amount": 2.13e-12,
       "internalId": 36,
-      "defaultProvider": {
-        "@type": "Process",
-        "@id": "2468b04f-b9b1-364d-bfbf-8ba12178096e",
-        "name": "Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",
-        "categoryPath": [
-          "31-33: Manufacturing",
-          "3211: Sawmills and Wood Preservation"
-        ],
-        "processType": "UNIT_PROCESS",
-        "location": "US"
-      },
       "flow": {
         "@type": "Flow",
         "@id": "24cfa2d1-ba72-371f-9d3f-cc121bc063f1",

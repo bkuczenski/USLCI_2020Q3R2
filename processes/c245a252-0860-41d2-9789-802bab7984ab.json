@@ -446,6 +446,17 @@
       "amount": 0.000706402,
       "description": "Strength agents",
       "internalId": 3,
+      "defaultProvider": {
+        "@type": "Process",
+        "@id": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+        "name": "Petroleum refining, at refinery",
+        "categoryPath": [
+          "31-33: Manufacturing",
+          "3241: Petroleum and Coal Products Manufacturing"
+        ],
+        "processType": "UNIT_PROCESS",
+        "location": "RNA"
+      },
       "flow": {
         "@type": "Flow",
         "@id": "66f981ad-439c-3f19-a925-11eb2d347545",
@@ -2464,6 +2475,17 @@
       "input": true,
       "amount": 0.004610732,
       "internalId": 2,
+      "defaultProvider": {
+        "@type": "Process",
+        "@id": "4cb0c558-b0ac-3656-bc1f-95b477c14921",
+        "name": "Soda powder, at plant",
+        "categoryPath": [
+          "21: Mining, Quarrying, and Oil and Gas Extraction",
+          "2123: Nonmetallic Mineral Mining and Quarrying"
+        ],
+        "processType": "UNIT_PROCESS",
+        "location": "RNA"
+      },
       "flow": {
         "@type": "Flow",
         "@id": "444bea1c-306c-361e-975e-68663d7a25e7",
@@ -3262,8 +3284,8 @@
       "internalId": 36,
       "defaultProvider": {
         "@type": "Process",
-        "@id": "ce587724-1be4-3da0-b7a2-988592c28b9a",
-        "name": "Sawn lumber, hardwood, rough, green, at sawmill, SE",
+        "@id": "2468b04f-b9b1-364d-bfbf-8ba12178096e",
+        "name": "Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",
         "categoryPath": [
           "31-33: Manufacturing",
           "3211: Sawmills and Wood Preservation"
